@@ -1,0 +1,11 @@
+name: webenv
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - requests
+  - beautifulsoup4
+  - ipykernel
+  - lxml
+  - html5lib
+prefix: /home/jparep/anaconda3/envs/webenv
