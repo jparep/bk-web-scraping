@@ -27,8 +27,8 @@ The Book Scraper is a Python application designed to extract book titles and pri
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/book_scraper.git
-    cd book_scraper
+    git clone https://github.com/jparep/bk-web-scraping.git
+    cd bk-web_scraping
     ```
 
 2. Install the required libraries:
@@ -40,7 +40,7 @@ The Book Scraper is a Python application designed to extract book titles and pri
 ## Usage
 1. Run the `book_scraper.py` script:
     ```bash
-    python book_scraper.py
+    python bk-web-scraping.py
     ```
 
 2. The script will fetch and display the titles and prices of books from the specified website.
